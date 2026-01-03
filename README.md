@@ -1,65 +1,89 @@
 # Hi 👋, I'm Yash Dhaka
 
-🎓 Computer Science Student | 💻 Aspiring Python Developer | 📊 Data Science Enthusiast  
+## 🚀 Aspiring Data Scientist | Data Analyst | ML & AI Enthusiast
 
-I am a motivated beginner in software development with a strong interest in Python, data science, and real-world problem solving. I enjoy learning new technologies and building practical projects to improve my skills.
-
----
-
-## 🚀 About Me
-- 🔭 Currently working on Python-based projects
-- 🌱 Learning **Data Science, SQL, and Web Development**
-- 🧠 Interested in **Python, Data Analysis, and Computer Vision**
-- 🎯 Goal: Secure an **internship or entry-level role** in tech
-- 📫 Reach me on **LinkedIn**
+I am a passionate **Data Science and Data Analyst aspirant** with strong **Python fundamentals** and a growing interest in **Machine Learning and AI Engineering**. I enjoy working with data to uncover insights, build predictive models, and solve real-world problems.
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🧠 What I Do
 
-### Programming Languages
-- Python
-- C
-
-### Frameworks & Libraries
-- Flask
-- OpenCV
-
-### Databases & Tools
-- SQL
-- Git & GitHub
-
-### Core Concepts
-- Data Structures (Basics)
-- Object-Oriented Programming
-- Problem Solving
+* 📊 Analyze & visualize data to find meaningful insights
+* 🧹 Clean, preprocess, and transform raw datasets
+* 🤖 Build beginner-to-intermediate **Machine Learning models**
+* 📁 Document projects clearly using **GitHub & Jupyter Notebooks**
 
 ---
 
-## 📂 Projects
+## 🛠️ Skills & Tools
 
-### 🔹 Face Recognition Attendance System
-- Built using **Python, Flask, and OpenCV**
-- Real-time face detection with camera integration
-- Automated attendance logging system
-- Focused on accuracy and performance
+### Programming & Tools
 
-*(More projects coming soon 🚀)*
+* Python
+* SQL
+* Git & GitHub
+* Jupyter Notebook
+
+### Data Analysis
+
+* Pandas
+* NumPy
+* Exploratory Data Analysis (EDA)
+* Data Cleaning & Feature Engineering
+
+### Data Visualization
+
+* Matplotlib
+* Seaborn
+* Power BI (Basic)
+
+### Machine Learning
+
+* Supervised Learning
+* Linear Regression
+* Logistic Regression
+* KNN
+* Decision Trees
+* Model Evaluation (Accuracy, Precision, Recall)
 
 ---
 
-## 📈 Currently Learning
-- Data Analysis with Python
-- SQL for Data Science
-- Machine Learning Fundamentals
-- Web Development Basics
+## 📂 Featured Projects
+
+### 📌 Sales Data Analysis
+
+* Performed EDA on sales data to identify trends
+* Created visualizations to understand product performance
+* **Tools:** Python, Pandas, Matplotlib
+
+### 📌 Student Performance Prediction (ML)
+
+* Built regression model to predict student scores
+* Evaluated model using performance metrics
+* **Tools:** Python, Scikit-learn
+
+### 📌 Netflix Dataset Analysis
+
+* Cleaned and analyzed Netflix data
+* Visualized genre popularity and ratings
+* **Tools:** Python, Seaborn
 
 ---
 
-## 🤝 Connect With Me
-- 💼 LinkedIn: https://www.linkedin.com/in/yash-dhaka-15a6823a2
+## 🎯 Current Focus
+
+* Advanced EDA techniques
+* Machine Learning optimization
+* Real-world datasets & portfolio projects
+* Preparing for entry-level Data Science / Data Analyst roles
 
 ---
 
-⭐ *Thank you for visiting my profile! Feel free to explore my repositories and connect with me.*
+## 📫 Connect With Me
 
+* 🔗 LinkedIn: [https://www.linkedin.com/in/yash-dhaka-15a6823a2](https://www.linkedin.com/in/yash-dhaka-15a6823a2)
+* 💻 GitHub: (Add your GitHub profile link here)
+
+---
+
+⭐ *I am open to internships, entry-level roles, and learning opportunities in Data Science, Data Analytics, and ML/AI Engineering.*
